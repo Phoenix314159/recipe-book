@@ -19,7 +19,7 @@
       "prefix": "app",
       "styles": [
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
-        "app/styles/css/app.component.css"
+        "styles/css/app.component.css"
       ],
       "scripts": [],
       "environments": {
